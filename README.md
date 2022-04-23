@@ -17,7 +17,7 @@ Awesome stuff built on top of SuttaCentral’s awesomeness
 - [Mini-SC](https://mini-sc.netlify.app/): minimal interface for reading Suttas
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas.
 - [靜慮林 Shi Ne Ling Monastery](https://www.godhamma.alicloud1688.com/): uses SC texts for their Chinese-language app
-- [Dharma Pearls]](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
+- [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
 
 ## books
 
