@@ -21,5 +21,5 @@ Awesome stuff built on top of SuttaCentral’s awesomeness
 
 ## books
 
-[Vihara Buddha Gotama edition](https://vbgnet.org/): has printed an edition of Sujato's translations
-[Audible audiobooks](https://www.audible.com.au/search?keywords=sujato&ref-override=a_hp_t1_header_search&k=sujato): get audiobooks read by professionals. (Non-free).
+- [Vihara Buddha Gotama edition](https://vbgnet.org/): has printed an edition of Sujato's translations
+- [Audible audiobooks](https://www.audible.com.au/search?keywords=sujato&ref-override=a_hp_t1_header_search&k=sujato): get audiobooks read by professionals. (Non-free).
