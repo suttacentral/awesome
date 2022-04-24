@@ -18,6 +18,7 @@ Awesome stuff built on top of SuttaCentral’s awesomeness
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas.
 - [靜慮林 Shi Ne Ling Monastery](https://www.godhamma.alicloud1688.com/): uses SC texts for their Chinese-language app
 - [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
+- [Pitaka Visualization](https://observablehq.com/@7722371e7ecac8bd/suttapitaka?collection=@7722371e7ecac8bd/finished): beautiful charts of the whole pitaka
 
 ## books
 
