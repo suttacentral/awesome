@@ -21,7 +21,11 @@ Awesome stuff built on top of SuttaCentral’s awesomeness
 - [Pitaka Visualization](https://observablehq.com/@7722371e7ecac8bd/suttapitaka?collection=@7722371e7ecac8bd/finished): beautiful charts of the whole pitaka
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
 
-## books
+## external print
 
 - [Vihara Buddha Gotama edition](https://vbgnet.org/): has printed an edition of Sujato's translations
+
+## external audio
+
+- [Pali Audio](https://www.paliaudio.com/): has translations read out loud, from SC and others.
 - [Audible audiobooks](https://www.audible.com.au/search?keywords=sujato&ref-override=a_hp_t1_header_search&k=sujato): get audiobooks read by professionals. (Non-free).
