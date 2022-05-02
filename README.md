@@ -29,3 +29,4 @@ Awesome stuff built on top of SuttaCentral’s awesomeness
 
 - [Pali Audio](https://www.paliaudio.com/): has translations read out loud, from SC and others.
 - [Audible audiobooks](https://www.audible.com.au/search?keywords=sujato&ref-override=a_hp_t1_header_search&k=sujato): get audiobooks read by professionals. (Non-free).
+- [Dharma audiobooks](https://dharmaaudiobooks.com/): includes readings from SuttaCentral.
