@@ -20,6 +20,7 @@ Awesome stuff built on top of SuttaCentral’s awesomeness
 - [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
 - [Pitaka Visualization](https://observablehq.com/@7722371e7ecac8bd/suttapitaka?collection=@7722371e7ecac8bd/finished): beautiful charts of the whole pitaka
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
+- [Dhammaregen](https://dhammaregen.github.io/dhammaregen/wiki/welcome): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
 
 ## external print
 
