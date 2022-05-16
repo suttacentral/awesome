@@ -18,6 +18,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [BuddhaNexus](https://buddhanexus.net): use machine learning to analyze text relations
 - [Mini-SC](https://mini-sc.netlify.app/): minimal interface for reading Suttas
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
+- [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox
 - [靜慮林 Shi Ne Ling Monastery](https://www.godhamma.alicloud1688.com/): uses SC texts for their Chinese-language app
 - [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
 - [Pitaka Visualization](https://observablehq.com/@7722371e7ecac8bd/suttapitaka?collection=@7722371e7ecac8bd/finished): beautiful charts of the whole pitaka
