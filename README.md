@@ -24,7 +24,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Pitaka Visualization](https://observablehq.com/@7722371e7ecac8bd/suttapitaka?collection=@7722371e7ecac8bd/finished): beautiful charts of the whole pitaka
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
 - [Dhammaregen](https://dhammaregen.github.io/dhammaregen/wiki/welcome): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
-- [Mini-SC](https://mini-sc.netlify.app/): a super-simple interface for finding a SuttaCentral text.
+- [SC Light](https://mini-sc.netlify.app/): a super-simple interface for finding a SuttaCentral text.
 
 ## external print
 
