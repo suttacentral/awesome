@@ -21,7 +21,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox
 - [靜慮林 Shi Ne Ling Monastery](https://www.godhamma.alicloud1688.com/): uses SC texts for their Chinese-language app
 - [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
-- [Pitaka Visualization](https://observablehq.com/@7722371e7ecac8bd/suttapitaka?collection=@7722371e7ecac8bd/finished): beautiful charts of the whole pitaka
+- [Dhamma Charts](https://www.dhammacharts.org/suttapitaka-chart/): beautiful and interactive charts of the whole canon.
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
 - [Dhammaregen](https://dhammaregen.github.io/dhammaregen/wiki/welcome): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
 - [SC Light](https://mini-sc.netlify.app/): a super-simple interface for finding a SuttaCentral text.
