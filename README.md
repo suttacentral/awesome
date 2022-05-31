@@ -19,6 +19,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Mini-SC](https://mini-sc.netlify.app/): minimal interface for reading Suttas
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
 - [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox
+- [Random Sutta](https://r.readingfaithfully.org/): get a random sutta!
 - [靜慮林 Shi Ne Ling Monastery](https://www.godhamma.alicloud1688.com/): uses SC texts for their Chinese-language app
 - [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
 - [Dhamma Charts](https://www.dhammacharts.org/suttapitaka-chart/): beautiful and interactive charts of the whole canon.
