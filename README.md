@@ -16,7 +16,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 ## external web
 
 - [BuddhaNexus](https://buddhanexus.net): use machine learning to analyze text relations
-- [Mini-SC](https://mini-sc.netlify.app/): minimal interface for reading Suttas
+- [SC Light](https://sc.readingfaithfully.org/): a super-simple interface for finding a SuttaCentral text.
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
 - [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox
 - [Random Sutta](https://r.readingfaithfully.org/): get a random sutta!
@@ -25,7 +25,6 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Dhamma Charts](https://www.dhammacharts.org/suttapitaka-chart/): beautiful and interactive charts of the whole canon.
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
 - [Dhammaregen](https://dhammaregen.github.io/dhammaregen/wiki/welcome): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
-- [SC Light](https://mini-sc.netlify.app/): a super-simple interface for finding a SuttaCentral text.
 
 ## external print
 
