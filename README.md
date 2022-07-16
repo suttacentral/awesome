@@ -15,6 +15,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 
 ## external web
 
+- [PTS Reference to Sutta Number Converter](https://benmneb.github.io/pts-converter/): Search or select from list. Based on SC data. Works offline.
 - [BuddhaNexus](https://buddhanexus.net): use machine learning to analyze text relations
 - [SC Light](https://sc.readingfaithfully.org/): a super-simple interface for finding a SuttaCentral text.
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
