@@ -25,6 +25,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Dhamma Charts](https://www.dhammacharts.org/suttapitaka-chart/): beautiful and interactive charts of the whole canon.
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
 - [Dhammaregen](https://dhammaregen.github.io/dhammaregen/wiki/welcome): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
+- [Studies in Early Buddhism](https://early-buddhism.com/): Researching the Early Buddhist Texts. Discussions, teachings, and analysis, using revised versions of SC's translations.
 
 ## external print
 
