@@ -26,6 +26,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
 - [Dhammaregen](https://dhammaregen.github.io/dhammaregen/wiki/welcome): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
 - [Studies in Early Buddhism](https://early-buddhism.com/): Researching the Early Buddhist Texts. Discussions, teachings, and analysis by Jay Forrest, using revised versions of SC's translations.
+- [Dhamma Gift](https://find.dhamma.gift/): an alternate search for SuttaCentral, focussing on Pali, Russian, and English.
 
 ## external print
 
