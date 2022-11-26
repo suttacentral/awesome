@@ -1,7 +1,6 @@
-# awesome SuttaCentral
-Awesome stuff built on top of SuttaCentral’s awesomeness.
+**Awesome stuff built on top of SuttaCentral’s awesomeness.**
 
-If you have something awesome to add, let us know. If not, why not make something?
+If you have something awesome to add, let us know. If not, why not make something yourself?
 
 ## house awesome
 
