@@ -27,6 +27,10 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Dhammaregen](https://dhammaregen.github.io/dhammaregen/wiki/welcome): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
 - [Studies in Early Buddhism](https://early-buddhism.com/): Researching the Early Buddhist Texts. Discussions, teachings, and analysis by Jay Forrest, using revised versions of SC's translations.
 - [Dhamma Gift](https://find.dhamma.gift/): an alternate search for SuttaCentral, focussing on Pali, Russian, and English.
+- 如是我聞 (thus have I heard) by Zetasoft. View, search, and bookmark text from SC and CBETA. Chinese text and Pali text Sutras and their translations into many languages are included. Easy to read and make notes.
+     - [web](https://park.zeta2374.com/)
+     - [android](https://play.google.com/store/apps/details?id=com.zetasoft.thus)
+     - [iOS](https://apps.apple.com/us/app/%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E-thus-have-i-heard/id1662763625)
 
 ## external print
 
