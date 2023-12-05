@@ -15,12 +15,16 @@ If you have something awesome to add, let us know. If not, why not make somethin
 
 ## external web
 
-- [BuddhaNexus](https://buddhanexus.net): use machine learning to analyze text relations
+- [BuddhaNexus](https://buddhanexus.net): use machine learning to analyze text relations.
 - [SC Light](https://sc.readingfaithfully.org/): a super-simple interface for finding a SuttaCentral text.
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
-- [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox
-- [Random Sutta](https://r.readingfaithfully.org/): get a random sutta!
-- [靜慮林 Shi Ne Ling Monastery](https://www.godhamma.alicloud1688.com/): uses SC texts for their Chinese-language app
+- [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox.
+- [Random Sutta](https://r.readingfaithfully.org/): get a random sutta.
+- [Book Builder](https://build.readingfaithfully.org/) Create an HTML file of a complete book from SuttaCentral data.
+- [Anthology Builder](https://anthology.readingfaithfully.org/) Create an HTML file of a custom list of suttas from SuttaCentral data.
+- [Sutta Differ](https://diff.readingfaithfully.org/?lang=en) Compare two very similar suttas to see what is different.
+- [Citation Helper](https://sutta.readingfaithfully.org) Easily find available translations from SuttaCentral and 6 other online sources based on citation.
+- [靜慮林 Shi Ne Ling Monastery](https://www.godhamma.alicloud1688.com/): uses SC texts for their Chinese-language app.
 - [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
 - [Dhamma Charts](https://www.dhammacharts.org/suttapitaka-chart/): beautiful and interactive charts of the whole canon.
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
