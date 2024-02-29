@@ -5,7 +5,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 ## house awesome
 
 - [SuttaCentral.net](https://suttacentral.net/)
-- [Dicuss & Discover](https://discourse.suttacentral.net/): SC's forum, built on Discourse.
+- [Discuss & Discover](https://discourse.suttacentral.net/): SC's forum, built on Discourse.
 - [Bilara](https://bilara.suttacentral.net/): web interface for Sutta translations.
 - [SuttaCentral Voice](https://voice.suttacentral.net/scv/index.html#/sutta): listen to Suttas.
 - [Bilara i/o](https://github.com/suttacentral/bilara-data/tree/published/.scripts/bilara-io): cli for converting Bilara data to `tsv`.
