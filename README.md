@@ -10,7 +10,6 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [SuttaCentral Voice](https://voice.suttacentral.net/scv/index.html#/sutta): listen to Suttas.
 - [Bilara i/o](https://github.com/suttacentral/bilara-data/tree/published/.scripts/bilara-io): cli for converting Bilara data to `tsv`.
 - [Bilara-data Integrity](https://github.com/suttacentral/bilara-data-integrity): a set of utilities and tests to ensure the integrity of the Pali text.
-- [Legacy SuttaCentral](https://legacy.suttacentral.net/): old but still working. The data is outdated!
 - [Legacy Books](https://suttacentral.github.io/legacy-books/): some old books produced by SuttaCentral.
 
 ## external web
