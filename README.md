@@ -14,7 +14,6 @@ If you have something awesome to add, let us know. If not, why not make somethin
 
 ## external web
 
-- [BuddhaNexus](https://buddhanexus.net): use machine learning to analyze text relations
 - [SC Light](https://sc.readingfaithfully.org/): a super-simple interface for finding a SuttaCentral text.
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
 - [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox
@@ -40,3 +39,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Pali Audio](https://www.paliaudio.com/): has translations read out loud, from SC and others.
 - [Audible audiobooks](https://www.audible.com.au/search?keywords=sujato&ref-override=a_hp_t1_header_search&k=sujato): get audiobooks read by professionals. (Non-free).
 - [Dharma audiobooks](https://dharmaaudiobooks.com/): includes readings from SuttaCentral.
+
+## external desktop
+
+- [Windows Databases of Suttas](https://leighb.com/suttadb.htm): has databases for Windows OS, one for SC English translations, one for other English translations.
