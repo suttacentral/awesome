@@ -7,7 +7,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [SuttaCentral.net](https://suttacentral.net/)
 - [Discuss & Discover](https://discourse.suttacentral.net/): SC's forum, built on Discourse.
 - [Bilara](https://bilara.suttacentral.net/): web interface for Sutta translations.
-- [SuttaCentral Voice](https://voice.suttacentral.net/scv/index.html#/sutta): listen to Suttas.
+- [SC-Voice](https://sc-voice.net/): listen to Suttas.
 - [Bilara i/o](https://github.com/suttacentral/bilara-data/tree/published/.scripts/bilara-io): cli for converting Bilara data to `tsv`.
 - [Bilara-data Integrity](https://github.com/suttacentral/bilara-data-integrity): a set of utilities and tests to ensure the integrity of the Pali text.
 - [Legacy Books](https://suttacentral.github.io/legacy-books/): some old books produced by SuttaCentral.
@@ -22,7 +22,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
 - [Dhamma Charts](https://www.dhammacharts.org/suttapitaka-chart/): beautiful and interactive charts of the whole canon.
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
-- [Dhammaregen](https://dhammaregen.github.io/dhammaregen/wiki/welcome): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
+- [Dhammaregen](https://dhammaregen.net): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
 - [Studies in Early Buddhism](https://early-buddhism.com/): Researching the Early Buddhist Texts. Discussions, teachings, and analysis by Jay Forrest, using revised versions of SC's translations.
 - [Dhamma Gift](https://find.dhamma.gift/): an alternate search for SuttaCentral, focussing on Pali, Russian, and English.
 - 如是我聞 (thus have I heard) by Zetasoft. View, search, and bookmark text from SC and CBETA. Chinese text and Pali text Sutras and their translations into many languages are included. Easy to read and make notes.
