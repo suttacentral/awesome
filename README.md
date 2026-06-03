@@ -16,6 +16,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 
 - [SuttaCentral.Express](https://suttacentral.express/): a fast and minimal alternative frontend for SuttaCentral.net
 - [SC Light](https://sc.readingfaithfully.org/): a super-simple interface for finding a SuttaCentral text.
+- [SuttaCentral Enhancement Extension](https://github.com/thesunshade/SuttaCentral-Enhancement-Extension): Browser extension with feature enhancements for SuttaCentral.net. Available on [Chrome](https://chromewebstore.google.com/detail/suttacentral-enhancement/lfkeephdohbmmbinhckfdeoajdbbkian), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/suttacentral-enhancements/), and [Edge](https://microsoftedge.microsoft.com/addons/detail/suttacentral-enhancement-/pcfibmblmflmdhdaaeojhldgcandgdob).
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
 - [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox.
 - [Random Sutta](https://r.readingfaithfully.org/): get a random sutta.
