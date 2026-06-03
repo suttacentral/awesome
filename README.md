@@ -34,6 +34,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
      - [web](https://park.zeta2374.com/)
      - [android](https://play.google.com/store/apps/details?id=com.zetasoft.thus)
      - [iOS](https://apps.apple.com/us/app/%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E-thus-have-i-heard/id1662763625)
+- [Canon of Original Buddhism](https://theravadan.org): The Pali Tipitaka and Translations.
 
 ## external print
 
