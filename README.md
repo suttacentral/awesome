@@ -14,7 +14,9 @@ If you have something awesome to add, let us know. If not, why not make somethin
 
 ## external web
 
-- [SuttaCentral.Express](https://suttacentral.express/): a fast and minimal alternative frontend for SuttaCentral.net.
+- [SuttaCentral.Express](https://suttacentral.express/): a fast and minimal alternative frontend for SuttaCentral.net. Includes all root texts and English translations.
+  - [SuttaCentral.now](https://suttacentral.now/): Another fast and minimal alternative frontend for SuttaCentral.net. Includes all root texts and all translations.
+  - [SuttaCentral Redirect](https://github.com/benmneb/suttacentral-redirect): A simple browser extension to switch between `suttacentral.net` and `.now` or `.express` — with optional auto-redirect. Available on [Chrome](https://chromewebstore.google.com/detail/noaddajdfegpjfgpmbhcbahofgkceaan) and [Firefox](https://addons.mozilla.org/firefox/addon/suttacentral-redirect/).
 - [SC Light](https://sc.readingfaithfully.org/): a super-simple interface for finding a SuttaCentral text.
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
 - [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox.
