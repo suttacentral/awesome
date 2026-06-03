@@ -5,17 +5,17 @@ If you have something awesome to add, let us know. If not, why not make somethin
 ## house awesome
 
 - [SuttaCentral.net](https://suttacentral.net/)
-- [Dicuss & Discover](https://discourse.suttacentral.net/): SC's forum, built on Discourse.
+- [Discuss & Discover](https://discourse.suttacentral.net/): SC's forum, built on Discourse.
 - [Bilara](https://bilara.suttacentral.net/): web interface for Sutta translations.
-- [SuttaCentral Voice](https://voice.suttacentral.net/scv/index.html#/sutta): listen to Suttas.
+- [SC-Voice](https://sc-voice.net/): listen to Suttas.
 - [Bilara i/o](https://github.com/suttacentral/bilara-data/tree/published/.scripts/bilara-io): cli for converting Bilara data to `tsv`.
 - [Bilara-data Integrity](https://github.com/suttacentral/bilara-data-integrity): a set of utilities and tests to ensure the integrity of the Pali text.
-- [Legacy SuttaCentral](https://legacy.suttacentral.net/): old but still working. The data is outdated!
 - [Legacy Books](https://suttacentral.github.io/legacy-books/): some old books produced by SuttaCentral.
 
 ## external web
 
 - [BuddhaNexus](https://buddhanexus.net): use machine learning to analyze text relations.
+- [SuttaCentral.Express](https://suttacentral.express/): a fast and minimal alternative frontend for SuttaCentral.net
 - [SC Light](https://sc.readingfaithfully.org/): a super-simple interface for finding a SuttaCentral text.
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
 - [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox.
@@ -28,7 +28,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
 - [Dhamma Charts](https://www.dhammacharts.org/suttapitaka-chart/): beautiful and interactive charts of the whole canon.
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
-- [Dhammaregen](https://dhammaregen.github.io/dhammaregen/wiki/welcome): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
+- [Dhammaregen](https://dhammaregen.net): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
 - [Studies in Early Buddhism](https://early-buddhism.com/): Researching the Early Buddhist Texts. Discussions, teachings, and analysis by Jay Forrest, using revised versions of SC's translations.
 - [Dhamma Gift](https://find.dhamma.gift/): an alternate search for SuttaCentral, focussing on Pali, Russian, and English.
 - 如是我聞 (thus have I heard) by Zetasoft. View, search, and bookmark text from SC and CBETA. Chinese text and Pali text Sutras and their translations into many languages are included. Easy to read and make notes.
@@ -45,3 +45,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Pali Audio](https://www.paliaudio.com/): has translations read out loud, from SC and others.
 - [Audible audiobooks](https://www.audible.com.au/search?keywords=sujato&ref-override=a_hp_t1_header_search&k=sujato): get audiobooks read by professionals. (Non-free).
 - [Dharma audiobooks](https://dharmaaudiobooks.com/): includes readings from SuttaCentral.
+
+## external desktop
+
+- [Windows Databases of Suttas](https://leighb.com/suttadb.htm): has databases for Windows OS, one for SC English translations, one for other English translations.
