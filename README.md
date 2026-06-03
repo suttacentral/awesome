@@ -14,7 +14,6 @@ If you have something awesome to add, let us know. If not, why not make somethin
 
 ## external web
 
-- [BuddhaNexus](https://buddhanexus.net): use machine learning to analyze text relations.
 - [SuttaCentral.Express](https://suttacentral.express/): a fast and minimal alternative frontend for SuttaCentral.net
 - [SC Light](https://sc.readingfaithfully.org/): a super-simple interface for finding a SuttaCentral text.
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
