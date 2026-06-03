@@ -14,6 +14,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 
 ## external web
 
+- [suttacentral.ru](https://suttacentral.ru/): Russian mirror of SuttaCentral.
 - [SuttaCentral.Express](https://suttacentral.express/): a fast and minimal alternative frontend for SuttaCentral.net. Includes all root texts and English translations.
   - [SuttaCentral.now](https://suttacentral.now/): Another fast and minimal alternative frontend for SuttaCentral.net. Includes all root texts and all translations.
   - [SuttaCentral Redirect](https://github.com/benmneb/suttacentral-redirect): A simple browser extension to switch between `suttacentral.net` and `.now` or `.express` — with optional auto-redirect. Available on [Chrome](https://chromewebstore.google.com/detail/noaddajdfegpjfgpmbhcbahofgkceaan) and [Firefox](https://addons.mozilla.org/firefox/addon/suttacentral-redirect/).
