@@ -14,7 +14,10 @@ If you have something awesome to add, let us know. If not, why not make somethin
 
 ## external web
 
-- [SuttaCentral.Express](https://suttacentral.express/): a fast and minimal alternative frontend for SuttaCentral.net
+- [suttacentral.ru](https://suttacentral.ru/): Russian mirror of SuttaCentral.
+- [SuttaCentral.Express](https://suttacentral.express/): a fast and minimal alternative frontend for SuttaCentral.net. Includes all root texts and English translations.
+  - [SuttaCentral.now](https://suttacentral.now/): Another fast and minimal alternative frontend for SuttaCentral.net. Includes all root texts and all translations.
+  - [SuttaCentral Redirect](https://github.com/benmneb/suttacentral-redirect): A simple browser extension to switch between `suttacentral.net` and `.now` or `.express` — with optional auto-redirect. Available on [Chrome](https://chromewebstore.google.com/detail/noaddajdfegpjfgpmbhcbahofgkceaan) and [Firefox](https://addons.mozilla.org/firefox/addon/suttacentral-redirect/).
 - [SC Light](https://sc.readingfaithfully.org/): a super-simple interface for finding a SuttaCentral text.
 - [Reading Faithfully](https://readingfaithfully.org/): reading guides and help with Suttas. Extra awesome: includes Pali/English epubs!
 - [A Sutta a Day](https://daily.readingfaithfully.org/): sign up with Reading Faithfully for Dhamma in your Inbox.
@@ -27,7 +30,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
 - [Dhamma Charts](https://www.dhammacharts.org/suttapitaka-chart/): beautiful and interactive charts of the whole canon.
 - [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
-- [Dhammaregen](https://dhammaregen.net): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler). 
+- [Dhammaregen](https://dhammaregen.net): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler).
 - [Studies in Early Buddhism](https://early-buddhism.com/): Researching the Early Buddhist Texts. Discussions, teachings, and analysis by Jay Forrest, using revised versions of SC's translations.
 - [Dhamma Gift](https://find.dhamma.gift/): an alternate search for SuttaCentral, focussing on Pali, Russian, and English.
 - 如是我聞 (thus have I heard) by Zetasoft. View, search, and bookmark text from SC and CBETA. Chinese text and Pali text Sutras and their translations into many languages are included. Easy to read and make notes.
