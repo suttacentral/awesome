@@ -36,6 +36,7 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [Dhamma Gift](https://dhamma.gift/): All translations by Thanissaro Bhukkhu Pali-English aligned. Full sets of 4 Nikayas + part of KN Pali-Russian Aligned. Search with sortable filterable tables. Read with build-in Voice option (Text-to-Speech) and numerous dictionary options. External links to Other Pali Editions on most of sutta pages. Anonymous and Gmail based Cloud Sync for Favorites, History and Settings.
 - 如是我聞 (thus have I heard) by Zetasoft. View, search, and bookmark text from SC and CBETA. Chinese text and Pali text Sutras and their translations into many languages are included. Easy to read and make notes. Available on [web](https://park.zeta2374.com/), [Android](https://play.google.com/store/apps/details?id=com.zetasoft.thus), and [iOS](https://apps.apple.com/us/app/%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E-thus-have-i-heard/id1662763625).
 - [Canon of Original Buddhism](https://theravadan.org): The Pali Tipitaka and Translations.
+- [foxue.ai](https://www.foxue.ai): multilingual Buddhist canon reader (Chinese, Pali, Sanskrit, Tibetan) with paragraph-level citations — every passage points back to its source edition and paragraph. Chinese Buddhist texts, including texts used on SC. Open source (Apache-2.0, [GitHub](https://github.com/weitzu-com/foxue.ai)).
 
 ## external print
 
