@@ -30,7 +30,6 @@ If you have something awesome to add, let us know. If not, why not make somethin
 - [靜慮林 Shi Ne Ling Monastery](https://www.godhamma.alicloud1688.com/): uses SC texts for their Chinese-language app.
 - [Dharma Pearls](https://canon.dharmapearls.net/): Chinese translations of Agamas by Charles Patton, whose work also features on SC.
 - [Dhamma Charts](https://www.dhammacharts.org/suttapitaka-chart/): beautiful and interactive charts of the whole canon.
-- [Pali Wordle](https://labs.buddhistuniversity.net/wordle-pali/): play wordle—on Pali!
 - [Dhammaregen](https://dhammaregen.net): Dhammaregen ist eine Webseite zum Studium früher buddhistischer Texte, im Speziellen der Suttas (Lehrreden des Buddha und seiner frühen Schülerinnen und Schüler).
 - [Studies in Early Buddhism](https://early-buddhism.com/): Researching the Early Buddhist Texts. Discussions, teachings, and analysis by Jay Forrest, using revised versions of SC's translations.
 - [Dhamma Gift](https://dhamma.gift/): All translations by Thanissaro Bhukkhu Pali-English aligned. Full sets of 4 Nikayas + part of KN Pali-Russian Aligned. Search with sortable filterable tables. Read with build-in Voice option (Text-to-Speech) and numerous dictionary options. External links to Other Pali Editions on most of sutta pages. Anonymous and Gmail based Cloud Sync for Favorites, History and Settings.
